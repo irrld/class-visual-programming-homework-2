@@ -1,0 +1,10 @@
+C:\Dev\Personal\Projects\GorselProgramlamaOdev2\GorselProgramlamaOdev2\obj\Debug\GorselProgramlamaOdev2.csprojAssemblyReference.cache
+C:\Dev\Personal\Projects\GorselProgramlamaOdev2\GorselProgramlamaOdev2\obj\Debug\GorselProgramlamaOdev2.Form1.resources
+C:\Dev\Personal\Projects\GorselProgramlamaOdev2\GorselProgramlamaOdev2\obj\Debug\GorselProgramlamaOdev2.Properties.Resources.resources
+C:\Dev\Personal\Projects\GorselProgramlamaOdev2\GorselProgramlamaOdev2\obj\Debug\GorselProgramlamaOdev2.csproj.GenerateResource.cache
+C:\Dev\Personal\Projects\GorselProgramlamaOdev2\GorselProgramlamaOdev2\obj\Debug\GorselProgramlamaOdev2.csproj.CoreCompileInputs.cache
+C:\Dev\Personal\Projects\GorselProgramlamaOdev2\GorselProgramlamaOdev2\bin\Debug\GorselProgramlamaOdev2.exe.config
+C:\Dev\Personal\Projects\GorselProgramlamaOdev2\GorselProgramlamaOdev2\bin\Debug\GorselProgramlamaOdev2.exe
+C:\Dev\Personal\Projects\GorselProgramlamaOdev2\GorselProgramlamaOdev2\bin\Debug\GorselProgramlamaOdev2.pdb
+C:\Dev\Personal\Projects\GorselProgramlamaOdev2\GorselProgramlamaOdev2\obj\Debug\GorselProgramlamaOdev2.exe
+C:\Dev\Personal\Projects\GorselProgramlamaOdev2\GorselProgramlamaOdev2\obj\Debug\GorselProgramlamaOdev2.pdb
