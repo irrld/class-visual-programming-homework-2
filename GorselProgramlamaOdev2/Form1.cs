@@ -79,13 +79,13 @@ namespace GorselProgramlamaOdev2
                         digit++;
                     }
                 }
+                string t = "";
+                foreach (string digitName in digitNames)
+                {
+                    t += digitName + " ";
+                }
+                output.Text = t;
             }
-            string t = "";
-            foreach (string digitName in digitNames)
-            {
-                t += digitName + " ";
-            }
-            output.Text = t;
         }
 
         public void Topla()
@@ -169,6 +169,14 @@ namespace GorselProgramlamaOdev2
             }
         }
 
+        public void ÇizgiÇiz(int s1, int s2, int s3, int s4)
+        {
+            Pen blackPen = new Pen(Color.Black, 3.0f);
+            var graphs = this.CreateGraphics();
+
+            graphs.DrawLine(blackPen, s1 % this.Size.Width, s2 % this.Size.Height, s3 % this.Size.Width, s4 % this.Size.Height);
+        }
+
         public void FormuRenklendir(Color renk)
         {
             this.BackColor = renk;
@@ -212,6 +220,29 @@ namespace GorselProgramlamaOdev2
         private void button10_Click(object sender, EventArgs e)
         {
             FormuRenklendir();
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            Random random = new Random();
+            ÇizgiÇiz(random.Next(), random.Next(), random.Next(), random.Next());
+        }
+
+        private void button9_Click(object sender, EventArgs e)
+        {
+            FormuRenklendir(Color.Gray);
+        }
+
+        private void button11_Click(object sender, EventArgs e)
+        {
+            Random random = new Random();
+            ÜsAl(5, 8);
+        }
+
+        private void button12_Click(object sender, EventArgs e)
+        {
+            int output = ÜsAl2(2, 5);
+            MessageBox.Show(output.ToString());
         }
     }
 }

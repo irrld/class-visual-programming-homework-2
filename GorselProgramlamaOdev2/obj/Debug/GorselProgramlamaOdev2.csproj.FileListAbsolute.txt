@@ -8,3 +8,13 @@ C:\Dev\Personal\Projects\GorselProgramlamaOdev2\GorselProgramlamaOdev2\bin\Debug
 C:\Dev\Personal\Projects\GorselProgramlamaOdev2\GorselProgramlamaOdev2\bin\Debug\GorselProgramlamaOdev2.pdb
 C:\Dev\Personal\Projects\GorselProgramlamaOdev2\GorselProgramlamaOdev2\obj\Debug\GorselProgramlamaOdev2.exe
 C:\Dev\Personal\Projects\GorselProgramlamaOdev2\GorselProgramlamaOdev2\obj\Debug\GorselProgramlamaOdev2.pdb
+C:\Users\AREL\Desktop\class-visual-programming-homework-2-main\GorselProgramlamaOdev2\bin\Debug\GorselProgramlamaOdev2.exe.config
+C:\Users\AREL\Desktop\class-visual-programming-homework-2-main\GorselProgramlamaOdev2\bin\Debug\GorselProgramlamaOdev2.exe
+C:\Users\AREL\Desktop\class-visual-programming-homework-2-main\GorselProgramlamaOdev2\bin\Debug\GorselProgramlamaOdev2.pdb
+C:\Users\AREL\Desktop\class-visual-programming-homework-2-main\GorselProgramlamaOdev2\obj\Debug\GorselProgramlamaOdev2.csprojAssemblyReference.cache
+C:\Users\AREL\Desktop\class-visual-programming-homework-2-main\GorselProgramlamaOdev2\obj\Debug\GorselProgramlamaOdev2.Form1.resources
+C:\Users\AREL\Desktop\class-visual-programming-homework-2-main\GorselProgramlamaOdev2\obj\Debug\GorselProgramlamaOdev2.Properties.Resources.resources
+C:\Users\AREL\Desktop\class-visual-programming-homework-2-main\GorselProgramlamaOdev2\obj\Debug\GorselProgramlamaOdev2.csproj.GenerateResource.cache
+C:\Users\AREL\Desktop\class-visual-programming-homework-2-main\GorselProgramlamaOdev2\obj\Debug\GorselProgramlamaOdev2.csproj.CoreCompileInputs.cache
+C:\Users\AREL\Desktop\class-visual-programming-homework-2-main\GorselProgramlamaOdev2\obj\Debug\GorselProgramlamaOdev2.exe
+C:\Users\AREL\Desktop\class-visual-programming-homework-2-main\GorselProgramlamaOdev2\obj\Debug\GorselProgramlamaOdev2.pdb
